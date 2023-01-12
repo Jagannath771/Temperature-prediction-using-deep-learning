@@ -5,3 +5,4 @@ The algorithms were choosen based on the performance of the previous algorithms 
 Among all models, residual networks gave good accuracy and loss. 
 You can find all the models in the form of ipynb files in the repository.
 best_model.pt can be used if you dont want to run the whole python file. And using this you can load the model settings and the hyperparameters into the python file and get the results.
+The dataset link is https://drive.google.com/drive/folders/1N-XjQFvzcYUcexQmzcHnckmAFtVzvMsd
